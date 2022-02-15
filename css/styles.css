@@ -1,0 +1,28 @@
+#loading-text {
+    text-align: center;
+}
+
+.data {
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+}
+
+.game-info {
+    background-color: bisque;
+    border: 4px solid black;
+    border-radius: 40px;
+    width: 400px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    padding-bottom: 20px;
+}
+
+.title-text, .rating-text, .tag-amount-text {
+    font-family: 'Anton', sans-serif;
+    font-size: 22px;
+}
